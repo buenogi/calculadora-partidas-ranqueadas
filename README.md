@@ -1,4 +1,5 @@
 # Calculadora de partidas Rankeadas
+Calculadora de partidas ranqueadas para o desafio DIO.
 
 ## Objetivo:
 
