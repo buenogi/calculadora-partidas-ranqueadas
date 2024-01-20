@@ -27,7 +27,4 @@ def calculadoraPR (vitorias, derrotas):
     return(f'O Herói tem saldo de {saldo}  pontos e está no nível {nivel}')
 
 
-vitorias = 80
-derrotas = 15
-
-calculadoraPR(vitorias, derrotas)
+print(calculadoraPR(vitorias, derrotas))
